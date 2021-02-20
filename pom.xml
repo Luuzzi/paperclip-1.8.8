@@ -98,8 +98,8 @@
 
     <repositories>
         <repository>
-            <id>jitpack.io</id>
-            <url>https://jitpack.io</url>
+            <id>clojars</id>
+            <url>http://clojars.org/repo</url>
         </repository>
     </repositories>
     <pluginRepositories>
