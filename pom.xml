@@ -102,13 +102,14 @@
             <url>https://jitpack.io</url>
         </repository>
     </repositories>
+    <pluginRepositories>
+        <pluginRepository>
+            <id>jitpack.io</id>
+            <url>https://jitpack.io</url>
+        </pluginRepository>
+    </pluginRepositories>
 
     <dependencies>
-        <dependency>
-            <groupId>com.github.PaperMC</groupId>
-            <artifactId>PaperclipMavenPlugin</artifactId>
-            <version>-dcae5ee31a-1</version>
-        </dependency>
         <dependency>
             <groupId>org.jbsdiff</groupId>
             <artifactId>jbsdiff</artifactId>
